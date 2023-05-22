@@ -15,6 +15,11 @@
         "location": "https://open.spotify.com"
     },
     {
+        "title": "Speedrun.com",
+        "img": "./img/apps/src.png",
+        "location": "https://speedrun.com"
+    },
+    {
         "title": "Twitter",
         "img": "./img/apps/twt.png",
         "location": "https://twitter.com/explore"
